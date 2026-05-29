@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Журнал</string>
+    <string name="sync_channel_name">Обновления журнала</string>
+    <string name="sync_channel_description">Новые задания, оценки и новости</string>
+</resources>
