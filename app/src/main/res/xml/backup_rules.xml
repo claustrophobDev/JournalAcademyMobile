@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Keystore-wrapped values cannot be decrypted on another device, so never back them up. -->
+    <exclude domain="sharedpref" path="journal_secure.xml" />
+    <exclude domain="file" path="api-cache" />
+</full-backup-content>
